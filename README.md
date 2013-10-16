@@ -14,12 +14,14 @@ Live Preview and Future Plans
 The project is still under construction as I slowly build up the recipe database with my favorite options. In addition, GF/SF/DF functionality has not been implemented quite yet for the search function. I currently have plans to implement an "Add Recipe" section for visitors to add their favorite recipes. In the future, I plan to work on constructing a mobile application (likely on Android and possibly on iOS devices) that allows users to interact with this database as well as a personal, local (on their device) to store recipes they do not necessarily wish to put on the internet, but that they wish to have a copy of on their mobile. Big plans ahead! :)
 
 Here is the current live preview (remember it is still a work in progress):
+
 http://imagine-reality.net/Recipes/Test.php
 
 Questions? Comments?
 --------------------
 
 For any questions, comments, or any suggestions about improving functionality (or any opinions you have about moving to mobile) please contact me at my website:
+
 http://imagine-reality.net
 
 Thanks!
